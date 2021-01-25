@@ -1,2 +1,2 @@
-# EnSabahNurX.github.io
-Project preview
+# tech-store
+This is a sample focused on web store pages.
