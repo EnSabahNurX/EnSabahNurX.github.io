@@ -1,0 +1,34 @@
+* {
+    font-family: 'Audiowide', cursive;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #333333;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+h3 {
+    height: auto;
+    width: 400px;
+    margin: 5%;
+}
+
+.grid {
+    width: 400px;
+    height: 300px;
+    border: 1px solid white;
+    line-height: 0;
+    /* font-size: 0; */
+}
