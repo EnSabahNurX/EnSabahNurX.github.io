@@ -19,12 +19,10 @@ body {
     color: #f1f5f8;
     line-height: 1.2;
     font-size: .675rem;
-    height: 93vh;
-    width: 93vw;
 }
 
 nav {
-    width: 100vw;
+    width: 98.9vw;
     margin-bottom: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -129,6 +127,7 @@ span {
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
+    width: 95vw;
     /* flex-direction: row; */
     /* display: grid; */
     /* gap: 3rem 2rem; */
@@ -162,7 +161,7 @@ footer {
         line-height: 1.5;
         font-size: .875rem;
         height: 93vh;
-        width: 93vw;
+        width: 95vw;
     }
     a {
         font-weight: 700;
